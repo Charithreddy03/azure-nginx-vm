@@ -10,3 +10,7 @@ A static HTML page hosted on an Ubuntu virtual machine in Azure using Nginx.
 4. Created a custom page directly on the VM at `/var/www/html/index.html`.
 5. Tested the page with `curl` and opened it in a browser using the VM's public IP.
 6. Copied the deployed HTML file to my Mac using `scp` and tracked it with Git.
+
+## Deployment screenshot
+
+![Custom Nginx page running on my Azure VM](screenshot.png)
